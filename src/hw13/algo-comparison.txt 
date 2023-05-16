@@ -1,0 +1,3 @@
+Both bubble sort and insertion sort have similar time and space complexities.
+However, insertion sort tends to perform better in practice because it makes
+fewer comparisons and swaps when the array is partially sorted or contains small elements.
